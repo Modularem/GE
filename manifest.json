@@ -1,4 +1,6 @@
 {
+ "name": "CASA GE",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -31,9 +33,7 @@
    "src": "misc/icon16.png"
   }
  ],
- "theme_color": "#FFFFFF",
- "display": "fullscreen",
  "background_color": "#FFFFFF",
  "start_url": "index.htm",
- "name": "CASA GE"
+ "display": "fullscreen"
 }
